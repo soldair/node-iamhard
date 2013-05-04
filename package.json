@@ -1,6 +1,6 @@
 {
   "name": "iamhard",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simply manage aws iam users, groups, and policies. a task which is unusually hard and unpleasent",
   "main": "index.js",
   "scripts": {
