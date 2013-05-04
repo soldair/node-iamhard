@@ -1,0 +1,24 @@
+{
+  "name": "iamhard",
+  "version": "0.0.0",
+  "description": "simply manage aws iam users, groups, and policies. a task which is unusually hard and unpleasent",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soldair/node-iamhard.git"
+  },
+  "keywords": [
+    "aws",
+    "iam",
+    "users",
+    "sucks",
+    "sysops"
+  ],
+  "author": "Ryan Day <soldair@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "822667ecefeb7df4b8257ac5c96ab929a6eba6bc"
+}
