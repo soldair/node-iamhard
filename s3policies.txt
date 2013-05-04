@@ -1,0 +1,23 @@
+
+
+{
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:ListAllMyBuckets",
+      "Resource": "arn:aws:s3:::*"
+    }
+  ]
+}
+
+
+{
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:*",
+      "Resource": ["arn:aws:s3:::soldair-s3npm",
+      "arn:aws:s3:::soldair-s3npm/*"]
+    }
+  ]
+}
