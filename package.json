@@ -20,5 +20,8 @@
   "author": "Ryan Day <soldair@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "822667ecefeb7df4b8257ac5c96ab929a6eba6bc"
+  "gitHead": "822667ecefeb7df4b8257ac5c96ab929a6eba6bc",
+  "dependencies": {
+    "aws-sdk": "~0.9.9-pre.10"
+  }
 }
